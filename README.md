@@ -1,5 +1,4 @@
 # Uno
-Live Demo: https://replit.com/@Vulpire/Uno#main.cpp
 
 Uno clone devloped in C++ for a final project:
 
